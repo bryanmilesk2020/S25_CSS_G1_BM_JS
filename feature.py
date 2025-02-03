@@ -7,3 +7,6 @@ def fibonacci(number):
         return fibonacci(number - 1) + fibonacci(number- 2)
 
 fibonacci_number = fibonacci(var)
+
+
+print(fibonacci_number, "Max")

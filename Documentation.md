@@ -1,11 +1,13 @@
 # S25-CSS-G1-BM-JS
 
-# [Project Title]
+# [Simulation of a Lan Network with Intrusion Detection/Prevention System]
 
 ## Overview
 Provide a clear description of your project, its objectives, and key functionalities.
-- **Objective:** Replace the final exam by delivering a comprehensive solution that meets the course outcomes.
-- **Scope:** Describe the systems and components covered (e.g., endpoint protection, cloud security, IoT integration).
+- **Objective:**
+- The primary goal of this project is to experiment with deploying a Network Intrusion Detection System (NIDS) within a local network that simulates a small business environment. This initiative will focus on monitoring and analyzing user activity to promptly identify and respond to security incidents. Granting valuable insight to refine future security procedures. A dynamic monitoring interface will ensure simple yet effective visualization. This structured approach aims to improve overall network security and incident response capabilities while establishing a foundation for continuous enhancement of security protocols.
+- **Scope:** Describe the systems and components covered
+- Lan network connectected between a laptop(server), 2 R pi, web server, NIDS integration.
 
 ## Deliverables
 - **Codebase:** All source code files organized by functionality.

@@ -1,4 +1,4 @@
-# S25-CSS-G1-BM-JS
+#Documentation of S25-CSS-G1-BM-JS
 
 # [Simulation of a Lan Network with Intrusion Detection/Prevention System]
 

@@ -1,0 +1,7 @@
+alert icmp any any -> any any ( msg:"ICMP Detected"; sid:1000001;)
+
+#telling snort to alert whenever they detect any traffic specific to icmp
+
+#any any is source address source port
+#second any any destination address destination port
+#msg is the message outputted and sid is signature id

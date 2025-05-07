@@ -1,3 +1,6 @@
+#!/bin/bash
+#highly recommend just copying and pasting commands one by one rather than running whole script in case
+#of errors
 #Credit: MyDFIR youtube channel
 
 #STEP 0 - INSTALL PRE-REQS

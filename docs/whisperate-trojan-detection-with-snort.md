@@ -12,7 +12,8 @@ This document showcases an example of snort detecting malware from network traff
 
 \#\#\#Step 1: Analyzing the PCAP file
 
-![][image1]
+![Detecting a trojan virus from a pcap file](docs/whisper-trojan-detect-with-snort.png)
+
 
 The command used: bash snort \-c /usr/local/etc/snort/snort.lua \--plugin-path /usr/local/etc/so\_rules/ \-r 2022-02-23-traffic-analysis-exercise.pcap \-A alert\_fast \-q \> pcap-signatures.txt
 
